@@ -10,13 +10,17 @@
     
     <artifactId>servlet</artifactId>
     <packaging>pom</packaging>
-    
+
     <name>Java EE Sample: servlet</name>
 
     <modules>
+        <module>async-servlet</module>
+        <module>cookies</module>
     	<module>simple-servlet</module>
-<!--
-        <module>async-servlet</module> -->
+    	<module>security-basicauth</module>
+    	<module>security-programmatic</module>
+    	<module>servlet-filters</module>
+    	<module>web-fragment</module>
     </modules>
 
 </project>
