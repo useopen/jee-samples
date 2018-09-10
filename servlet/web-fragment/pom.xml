@@ -11,6 +11,6 @@
 
     <artifactId>servlet-web-fragment</artifactId>
     <packaging>war</packaging>
-    <name>Java EE Sample: servlet - web-fragment</name>
+    <name>Java EE Samples: Servlet - web-fragment</name>
 
 </project>

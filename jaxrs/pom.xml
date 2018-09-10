@@ -12,7 +12,7 @@
 
     <artifactId>jaxrs</artifactId>
     <packaging>pom</packaging>
-    <name>Java EE Sample: jaxrs</name>
+    <name>Java EE Samples: JAX-RS</name>
 
     <modules>
         <module>async-client</module>
@@ -23,5 +23,6 @@
         <module>filter-interceptor</module>
         <module>jaxrs-client</module>
         <module>jaxrs-security-declarative</module>
+        <module>sse-producer</module>
     </modules>
 </project>

@@ -25,5 +25,7 @@
         <module>listeners</module>
         <module>listeners-injection</module>
         <module>schema-gen-index</module>
+        <module>dynamic-tx</module>
+        <module>stream</module>
     </modules>
 </project>

@@ -11,5 +11,5 @@
 
     <artifactId>servlet-cookies</artifactId>
     <packaging>war</packaging>
-    <name>Java EE Sample: servlet - cookies</name>
+    <name>Java EE Samples: Servlet - cookies</name>
 </project>

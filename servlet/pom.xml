@@ -11,7 +11,7 @@
     <artifactId>servlet</artifactId>
     <packaging>pom</packaging>
 
-    <name>Java EE Sample: servlet</name>
+    <name>Java EE Samples: Servlet</name>
 
     <modules>
         <module>async-servlet</module>
@@ -21,6 +21,8 @@
     	<module>security-programmatic</module>
     	<module>servlet-filters</module>
     	<module>web-fragment</module>
+        <module>http2</module>
+        <module>mapping</module>
     </modules>
 
 </project>

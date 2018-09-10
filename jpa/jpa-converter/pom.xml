@@ -12,5 +12,5 @@
     <artifactId>jpa-jpa-converter</artifactId>
     <packaging>jar</packaging>
     
-    <name>Java EE Sample: jpa-converter</name>
+    <name>Java EE Samples: JPA-converter</name>
 </project>

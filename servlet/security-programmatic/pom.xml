@@ -11,7 +11,7 @@
     
     <artifactId>servlet-security-programmatic</artifactId>
     <packaging>war</packaging>
-    <name>Java EE Sample: servlet - security-programmatic</name>
+    <name>Java EE Samples: Servlet - security-programmatic</name>
 
     <profiles>
         <profile>

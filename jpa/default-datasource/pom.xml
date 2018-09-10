@@ -11,5 +11,5 @@
 
     <artifactId>jpa-default-datasource</artifactId>
     <packaging>war</packaging>
-    <name>Java EE Sample: jpa - default-datasource</name>
+    <name>Java EE Samples: JPA - default-datasource</name>
 </project>

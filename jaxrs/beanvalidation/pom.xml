@@ -11,5 +11,5 @@
 
     <artifactId>jaxrs-beanvalidation</artifactId>
     <packaging>war</packaging>
-    <name>Java EE Sample: jaxrs - beanvalidation</name>
+    <name>Java EE Samples: JAX-RS - beanvalidation</name>
 </project>
