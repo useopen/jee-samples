@@ -81,6 +81,8 @@
         <module>jta</module>
         <module>validation</module>
         <module>wildfly-quickstarts</module>
+        <module>cdi</module>
+        <module>batch</module>
     </modules>
 
 
